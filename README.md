@@ -115,5 +115,5 @@ This project uses patient health indicator data to analyze risk factors and pred
 
 **Nyema Roland Amadi**  
 Public Health Analyst | Data Enthusiast  
-[GitHub Profile](#) • [LinkedIn](www.linkedin.com/in/nyema-amadi-827417242)
+[GitHub Profile](https://github.com/Nyemaechile) • [LinkedIn](www.linkedin.com/in/nyema-amadi-827417242)
 
